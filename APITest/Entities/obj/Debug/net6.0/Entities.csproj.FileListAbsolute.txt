@@ -1,0 +1,24 @@
+C:\Users\jtorresf\source\repos\APITest\Entidades\bin\Debug\net6.0\Entities.deps.json
+C:\Users\jtorresf\source\repos\APITest\Entidades\bin\Debug\net6.0\Entities.dll
+C:\Users\jtorresf\source\repos\APITest\Entidades\bin\Debug\net6.0\Entities.pdb
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Debug\net6.0\Entities.dll
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Debug\net6.0\Entities.pdb
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\Entities\obj\Debug\net6.0\ref\Entities.dll

@@ -1,0 +1,12 @@
+C:\Users\jtorresf\source\repos\APITest\Entidades\bin\Release\net6.0\Entities.deps.json
+C:\Users\jtorresf\source\repos\APITest\Entidades\bin\Release\net6.0\Entities.dll
+C:\Users\jtorresf\source\repos\APITest\Entidades\bin\Release\net6.0\Entities.pdb
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Release\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Release\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Release\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Release\net6.0\Entities.AssemblyInfo.cs
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Release\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Release\net6.0\Entities.dll
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Release\net6.0\refint\Entities.dll
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Release\net6.0\Entities.pdb
+C:\Users\jtorresf\source\repos\APITest\Entidades\obj\Release\net6.0\ref\Entities.dll
