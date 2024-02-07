@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    width: 100vw;
+    font-family: sans-serif;
+    background-color: rgb(226, 239, 255);
+}
+
+.container {
+    width: 90%;
+    height: 100%;
+    margin: auto;
+}
+
+h1 {
+    margin: 50px 0 30px 0;
+    font-size: 1.5rem;
+}
+
+.control {
+    border: 1px solid rgb(207, 207, 207);
+    margin-left: 10px;
+    width: 250px;
+    padding: 7px;
+}
+
+.products {
+    display: grid;
+    gap: 30px;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 50px 0;
+}
+
+#info-products {
+    text-align: center;
+    color: rgb(0, 73, 184);
+}
+
+.product-card {
+    display: flex;
+    font-size: 0.8rem;
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: white;
+    height: 200px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.116);
+}
+
+.product-name {
+    font-weight: 500;
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+.product-sku {
+    font-size: 0.7rem;
+    margin-bottom: 25px;
+    color: rgb(116, 116, 116);
+}
+
+.product-info {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.product-tags {
+    color: rgb(39, 112, 223);
+    font-size: 0.7rem;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.error {
+    color: rgb(216, 1, 1) !important
+}
+
+.loader {
+    width: 48px;
+    height: 48px;
+    border: 5px solid #4a9bff;
+    border-radius: 50%;
+    display: block;
+    box-sizing: border-box;
+    position: relative;
+    animation: pulse 1s linear infinite;
+    margin: auto;
+  }
+
+  .loader:after {
+    content: '';
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    border: 5px solid #7fb9ff;
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    animation: scaleUp 1s linear infinite;
+  }
+  
+  @keyframes scaleUp {
+    0% { transform: translate(-50%, -50%) scale(0) }
+    60% , 100% { transform: translate(-50%, -50%)  scale(1)}
+  }
+  @keyframes pulse {
+    0% , 60% , 100%{ transform:  scale(1) }
+    80% { transform:  scale(1.2)}
+  }
