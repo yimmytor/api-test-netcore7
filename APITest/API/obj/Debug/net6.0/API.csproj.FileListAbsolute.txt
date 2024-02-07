@@ -1,0 +1,84 @@
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\appsettings.json
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\API.exe
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\API.deps.json
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\API.dll
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\API.pdb
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\Business.dll
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\DataAccess.dll
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\Entities.dll
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\Services.dll
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\Services.pdb
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\Business.pdb
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\jtorresf\source\repos\APITest\API\bin\Debug\net6.0\Entities.pdb
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\API.dll
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\API.pdb
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\jtorresf\source\repos\APITest\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\API.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\API.pdb
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\appsettings.json
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\API.exe
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\API.deps.json
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\API.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\API.pdb
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\Business.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\DataAccess.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\Entities.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\Services.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\Services.pdb
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\Business.pdb
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\bin\Debug\net6.0\Entities.pdb
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\API\obj\Debug\net6.0\ref\API.dll
