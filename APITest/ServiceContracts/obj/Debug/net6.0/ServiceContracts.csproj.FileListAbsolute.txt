@@ -1,0 +1,38 @@
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\bin\Debug\net6.0\ServiceContracts.deps.json
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\bin\Debug\net6.0\Business.dll
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\bin\Debug\net6.0\DataAccess.dll
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\bin\Debug\net6.0\Entities.dll
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\bin\Debug\net6.0\Business.pdb
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CopyComplete
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.dll
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\obj\Debug\net6.0\refint\ServiceContracts.dll
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.pdb
+C:\Users\jtorresf\source\repos\APITest\ServiceContracts\obj\Debug\net6.0\ref\ServiceContracts.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\obj\Debug\net6.0\refint\ServiceContracts.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.pdb
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\bin\Debug\net6.0\ServiceContracts.deps.json
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\bin\Debug\net6.0\Business.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\bin\Debug\net6.0\DataAccess.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\bin\Debug\net6.0\Entities.dll
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\bin\Debug\net6.0\Business.pdb
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CopyComplete
+C:\Users\jtorresf\Desktop\Nueva carpeta (2)\api-test-netcore7\APITest\ServiceContracts\obj\Debug\net6.0\ref\ServiceContracts.dll
